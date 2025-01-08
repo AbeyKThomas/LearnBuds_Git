@@ -1,1 +1,2 @@
 Hai Hello World , This is from first file
+Master file1.txt content.
